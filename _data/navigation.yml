@@ -4,4 +4,7 @@
   url: /about/
 
 - title: Blog
-  url: /blog/
+  url: /
+
+- title: Archive
+  url: /archive/
